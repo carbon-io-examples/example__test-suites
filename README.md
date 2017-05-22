@@ -5,6 +5,7 @@ This example illustrates the use of Carbon.io to implement test suites using Tes
 Test suites are used to organize and manage large sets of tests. In this example we create the following test tree
 via Test-tube:
 
+```
 * MathTests
   * ArithmeticTests
     * AdditionTests
@@ -15,6 +16,7 @@ via Test-tube:
     * AndTests
     * OrTests
     * NotTests
+```
 
 ## Installing
 
