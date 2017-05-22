@@ -2,6 +2,13 @@
 
 This example illustrates the use of Carbon.io to implement test suites using Test-tube.
 
+Test suites are used to organize and manage large sets of tests. In this example we create the following test tree
+via Test-tube:
+
+* hey
+  * hey
+    * there
+
 ## Installing
 
 We encourage you to clone the git repository so you can play around with the code. 
