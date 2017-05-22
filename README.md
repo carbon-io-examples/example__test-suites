@@ -18,6 +18,8 @@ MathTests
     - NotTests
 ```
 
+The root of the test tree (the top-level test) is located in ```test/index.js```. 
+
 ## Installing
 
 We encourage you to clone the git repository so you can play around with the code. 
