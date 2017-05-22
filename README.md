@@ -7,12 +7,12 @@ via Test-tube:
 
 ```
 * MathTests
-  * ArithmeticTests
+  - ArithmeticTests
     * AdditionTests
     * SubtractionTests
     * MultiplicationTests
     * DivisionTests
-  * LogicTests
+  - LogicTests
     * AndTests
     * OrTests
     * NotTests
