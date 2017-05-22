@@ -6,16 +6,16 @@ Test suites are used to organize and manage large sets of tests. In this example
 via Test-tube:
 
 ```
-* MathTests
-  - ArithmeticTests
-    * AdditionTests
-    * SubtractionTests
-    * MultiplicationTests
-    * DivisionTests
-  - LogicTests
-    * AndTests
-    * OrTests
-    * NotTests
+MathTests
+  * ArithmeticTests
+    - AdditionTests
+    - SubtractionTests
+    - MultiplicationTests
+    - DivisionTests
+  * LogicTests
+    - AndTests
+    - OrTests
+    - NotTests
 ```
 
 ## Installing
