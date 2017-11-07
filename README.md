@@ -25,26 +25,26 @@ The root of the test tree (the top-level test) is located in ```test/index.js```
 We encourage you to clone the git repository so you can play around with the code. 
 
 ```sh
-% git clone git@github.com:carbon-io/example__test-suites.git
-% cd example__test-suites
-% npm install
+$ git clone -b carbon-0.6 git@github.com:carbon-io-examples/example__test-suites.git
+$ cd example__test-suites
+$ npm install
 ```
 
 ## Running the example test suite
 
 ```sh
-% node test
+$ node test
 ```
 
 or
 
 ```sh
-% node test/index.js
+$ node test/index.js
 ```
 
 or 
 
 ```sh
-% npm test
+$ npm test
 ```
 
