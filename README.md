@@ -1,5 +1,7 @@
 # Test Suites example
 
+[![Build Status](https://img.shields.io/travis/carbon-io-examples/example__test-suites.svg?style=flat-square)](https://travis-ci.org/carbon-io-examples/example__test-suites) ![Carbon Version](https://img.shields.io/badge/carbon--io-0.7-blue.svg?style=flat-square)
+
 This example illustrates the use of Carbon.io to implement test suites using Test-tube.
 
 Test suites are used to organize and manage large sets of tests. In this example we create the following test tree
