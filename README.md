@@ -22,11 +22,11 @@ MathTests
     - NotTests
 ```
 
-The root of the test tree (the top-level test) is located in ```test/index.js```. 
+The root of the test tree (the top-level test) is located in ```test/index.js```.
 
 ## Installing
 
-We encourage you to clone the git repository so you can play around with the code. 
+We encourage you to clone the git repository so you can play around with the code.
 
 ```sh
 $ git clone -b carbon-0.7 git@github.com:carbon-io-examples/example__test-suites.git
@@ -46,9 +46,8 @@ or
 $ node test/index.js
 ```
 
-or 
+or
 
 ```sh
 $ npm test
 ```
-
